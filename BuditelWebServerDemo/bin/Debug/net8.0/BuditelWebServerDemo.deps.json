@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuditelWebServerDemo/1.0.0": {
+        "dependencies": {
+          "BuditelWebServer.server": "1.0.0"
+        },
+        "runtime": {
+          "BuditelWebServerDemo.dll": {}
+        }
+      },
+      "BuditelWebServer.server/1.0.0": {
+        "runtime": {
+          "BuditelWebServer.server.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuditelWebServerDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuditelWebServer.server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

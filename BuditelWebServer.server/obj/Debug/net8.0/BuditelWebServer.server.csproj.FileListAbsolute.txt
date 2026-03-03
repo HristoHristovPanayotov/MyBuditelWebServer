@@ -1,0 +1,11 @@
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\bin\Debug\net8.0\BuditelWebServer.server.deps.json
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\bin\Debug\net8.0\BuditelWebServer.server.dll
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\bin\Debug\net8.0\BuditelWebServer.server.pdb
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.AssemblyInfoInputs.cache
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.AssemblyInfo.cs
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.csproj.CoreCompileInputs.cache
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.dll
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\refint\BuditelWebServer.server.dll
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\BuditelWebServer.server.pdb
+C:\Users\HRISTOBANANA\source\repos\MyWebServer\BuditelWebServer.server\obj\Debug\net8.0\ref\BuditelWebServer.server.dll

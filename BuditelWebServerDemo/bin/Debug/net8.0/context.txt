@@ -1,0 +1,71 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - SoftUni Judge</title>
+    <meta name="description" content="Online system for programming competitions" />
+    <link href="/Content/bootstrap/bootstrap?v=7EVAkqrqyPC0hRsMoFTAzVOblhjeHKzBszkwWmAAtAM1" rel="stylesheet"/>
+<link href="/Content/KendoUI/kendo?v=wqkxBH72RBfdO9pjHK1yYc9KqNGxXwI0GjMKQ31bqyI1" rel="stylesheet"/>
+<link href="/Content/styles?v=XYtuxo70EnFkEWwI0zdFDZdx5lV4ejKSsymPG9CxNQ41" rel="stylesheet"/>
+
+    
+    <link href="/Content/home/index?v=VCFAZAhTp3rtDjneq-R1gDf8ugPvEYzrvNapwDmGoRw1" rel="stylesheet"/>
+
+
+    <script src="/bundles/jquery?v=emRf7jyCXRjntd-r9KgldtqdMIkBKOg7UyZbwv5gDrM1"></script>
+<script src="/bundles/kendo?v=5PZ_gYmHOqMcBFE2gZPTNrZMe9ThYyFOj0JkbeYtLJw1"></script>
+<script src="/bundles/global?v=TDz0-Dnl9dTImqsOC7mTgkUQGbzWYqfHblhMFinOlqI1"></script>
+
+</head>
+<body>
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-11309924-11', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <!-- Header -->
+    <div class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/" class="navbar-brand">SoftUni Judge</a>
+          
+----------------------------------------------------------------------------------------------------<!DOCTYPE html>
+<html lang="en-US">
+<head><style>img.lazy{min-height:1px}</style><link href="https://softuni.org/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11"> 
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/c750e7666794be0fbf2f0bcb/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO plugin v27.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Software Development Courses for Business and Individuals - SoftUni Global</title>
+	<meta name="description" content="Franchise opportunities and software development courses for companies, educators, individuals - corporate training, teaching materials, self-paced programs" />
+	<link rel="canonical" href="https://softuni.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Software Development Courses for Business and Individuals - SoftUni Global" />
+	<meta property="og:description" content="Franchise opportunities and software development courses for companies, educators, individuals - corporate training, teaching materials, self-paced programs" />
+	<meta property="og:url" content="https://softuni.org/" />
+	<meta property="og:site_name" content="SoftUni Global" />
+	<meta property="article:modified_time" content="2025-04-19T19:50:30+00:00" />
+	<meta property="og:image" content="https://softuni.org/wp-content/uploads/2022/03/home02-separator02.jpg" />
+	<meta property="og:image:width" content="1" />
+	<meta property="og:image:height" content="110" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json"

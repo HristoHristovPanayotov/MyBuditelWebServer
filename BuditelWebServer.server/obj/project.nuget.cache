@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EkFaTIsErU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hristo\\Downloads\\MyWebServer2\\BuditelWebServer.server\\BuditelWebServer.server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hristo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Hristo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Hristo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
